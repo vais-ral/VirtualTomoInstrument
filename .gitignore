@@ -32,3 +32,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+VRTK.meta
+SteamVR
+VRTK
+SteamVR.meta
