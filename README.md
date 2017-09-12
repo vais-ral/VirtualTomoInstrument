@@ -6,3 +6,4 @@ Virtual Tomography Instrument hall is a VR project to demonstrate a Tomography e
 This project has below dependencies that are needed to be downloaded from the asset store.
 1. VRTK
 2. SteamVR
+3. TextMesh Pro
