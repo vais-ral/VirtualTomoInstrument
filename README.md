@@ -7,3 +7,4 @@ This project has below dependencies that are needed to be downloaded from the as
 1. VRTK
 2. SteamVR
 3. TextMesh Pro
+4. VolumetricLights (https://github.com/SlightlyMad/VolumetricLights)
